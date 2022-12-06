@@ -43,4 +43,3 @@ void PrintArray(string[] ele)
 }
 
 PrintArray(el);
-
