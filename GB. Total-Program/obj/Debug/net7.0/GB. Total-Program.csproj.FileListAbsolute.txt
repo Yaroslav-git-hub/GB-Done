@@ -1,0 +1,15 @@
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\bin\Debug\net7.0\GB. Total-Program.exe
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\bin\Debug\net7.0\GB. Total-Program.deps.json
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\bin\Debug\net7.0\GB. Total-Program.runtimeconfig.json
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\bin\Debug\net7.0\GB. Total-Program.dll
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\bin\Debug\net7.0\GB. Total-Program.pdb
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\obj\Debug\net7.0\GB. Total-Program.csproj.AssemblyReference.cache
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\obj\Debug\net7.0\GB. Total-Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\obj\Debug\net7.0\GB. Total-Program.AssemblyInfoInputs.cache
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\obj\Debug\net7.0\GB. Total-Program.AssemblyInfo.cs
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\obj\Debug\net7.0\GB. Total-Program.csproj.CoreCompileInputs.cache
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\obj\Debug\net7.0\GB. Total-Program.dll
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\obj\Debug\net7.0\refint\GB. Total-Program.dll
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\obj\Debug\net7.0\GB. Total-Program.pdb
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\obj\Debug\net7.0\GB. Total-Program.genruntimeconfig.cache
+C:\Users\Ярополк\Desktop\GB-REZ\GB. Total-Program\obj\Debug\net7.0\ref\GB. Total-Program.dll
